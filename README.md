@@ -26,11 +26,11 @@ The dataset contains information about various countries, focusing on demographi
 
 ## Objectives
 
-**Understand Global Demographics:** Analyze population distribution, density, and demographic trends across countries.
-**Explore Fertility and Age Dynamics:** Investigate relationships between fertility rate, median age, and urbanization.
-**Highlight Migratory Trends:** Examine net migration patterns and their impact on population changes.
-**Identify Extremes:** Determine the least and most populated, dense, and urbanized countries.
-**Provide Managerial Insights:** Support policymakers, demographers, and business leaders with data-driven insights.
+1. **Understand Global Demographics:** Analyze population distribution, density, and demographic trends across countries.
+2. **Explore Fertility and Age Dynamics:** Investigate relationships between fertility rate, median age, and urbanization.
+3. **Highlight Migratory Trends:** Examine net migration patterns and their impact on population changes.
+4. **Identify Extremes:** Determine the least and most populated, dense, and urbanized countries.
+5. **Provide Managerial Insights:** Support policymakers, demographers, and business leaders with data-driven insights.
 
 ## Dashboard Image:
 
