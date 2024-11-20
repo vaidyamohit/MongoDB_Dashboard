@@ -4,15 +4,25 @@
 The dataset contains information about various countries, focusing on demographic and geographic metrics. Key attributes include:
 
 **Country:** Name of the country.
+
 **Population:** Total population in the country.
+
 **Density per square km:** Number of people per square kilometer.
+
 **Land area in square km:** Total land area in square kilometers.
+
 **Fertility Rate:** Average number of children born per woman.
+
 **Median Age:** Median age of the population.
+
 **Net Change:** Change in population over a year.
+
 **Migrants Net:** Net migration rate.
+
 **Urban Population:** Percentage of the population living in urban areas.
+
 **World Share:** Share of the world’s total population.
+
 
 ## Objectives
 
