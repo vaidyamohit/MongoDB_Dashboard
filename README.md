@@ -34,7 +34,7 @@ The dataset contains information about various countries, focusing on demographi
 
 ## Dashboard Image:
 
-![World Population Data](https://github.com/user-attachments/assets/6708dfda-a882-47fe-8f89-7ae4d1e766c8)
+![World Population Data](https://github.com/user-attachments/assets/39fef8eb-d753-43ab-83f4-d9510e530bd3)
 
 ## Managerial Insights
 
